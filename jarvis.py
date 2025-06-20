@@ -108,7 +108,7 @@ def main_process():
             message = """
             This is the message.
 
-            Thanks by Kode Gurukul.
+           from sai harshitha
 
             """
             s.sendmail("xxxxx@xgmail.com", "xxxxx@xgmail.com", message)
